@@ -1,4 +1,6 @@
+book_filename: "Primer bookdown"
 delete_merged_file: true
+output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
